@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Dela+Gothic+One&family=Monoton&display=swap');
+
+.Header-title {
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 20px;
+    text-shadow: 4px 4px 5px #669bbc;
+    
+}
