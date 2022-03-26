@@ -1,9 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Dela+Gothic+One&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
 .Header-title {
     text-align: center;
-    font-family: 'Dela Gothic One', cursive;
-    font-size: 20px;
-    text-shadow: 4px 4px 5px #669bbc;
-    
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    border: 1px solid #ececec;
+    background-color: #003049;
+    color: white;
+    border-radius: 12px;
+    width: 50rem;
+    margin: 2rem auto;
+    line-height: .5;
 }
